@@ -45,7 +45,7 @@ With the following software and hardware list you can run all code files present
                      
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/PySparkCookbook_ColorImages.pdf).
 
-## Get to Know the Author(s)
+## Get to Know the Authors
 **Denny Lee**
 Denny Lee is a technology evangelist at Databricks. He is a hands-on data science engineer with 15+ years of experience. His key focuses are solving complex large-scale data problems—providing not only architectural direction but hands-on implementation of such systems. He has extensive experience of building greenfield teams as well as being a turnaround/change catalyst. Prior to joining Databricks, he was a senior director of data science engineering at Concur and was part of the incubation team that built Hadoop on Windows and Azure (currently known as HDInsight).
 
