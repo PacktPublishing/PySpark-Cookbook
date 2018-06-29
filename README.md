@@ -41,13 +41,8 @@ With the following software and hardware list you can run all code files present
 
 | Chapter  | Software required                   | OS required                        |
 | -------- | ------------------------------------| -----------------------------------|
-| 1-8      | Apache Spark                        |Linux distro (preferably Ubuntu >14.04)|
-             Python
-             Jupyter
-             Cloudera QuickStart VM            
-
-
-
+| 1-8      | Apache Spark, Python, Jupyter, Cloudera QuickStart VM                      |Linux distro (preferably Ubuntu >14.04)|
+                     
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/PySparkCookbook_ColorImages.pdf).
 
 ## Get to Know the Author(s)
