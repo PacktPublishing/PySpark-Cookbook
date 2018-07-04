@@ -1,0 +1,4 @@
+{"Id":1," Model":"MacBook Pro"," Year":2015," ScreenSize":"15\""," RAM":"16GB"," HDD":"512GB SSD"," W":13.75," D":9.48," H":0.61," Weight":4.02}
+{"Id":2," Model":"MacBook"," Year":2016," ScreenSize":"12\""," RAM":"8GB"," HDD":"256GB SSD"," W":11.04," D":7.74," H":0.52," Weight":2.03}
+{"Id":3," Model":"MacBook Air"," Year":2016," ScreenSize":"13.3\""," RAM":"8GB"," HDD":"128GB SSD"," W":12.8," D":8.94," H":0.68," Weight":2.96}
+{"Id":4," Model":"iMac"," Year":2017," ScreenSize":"27\""," RAM":"64GB"," HDD":"1TB SSD"," W":25.6," D":8.0," H":20.3," Weight":20.8}

@@ -1,0 +1,5 @@
+Id, Model, Year, ScreenSize, RAM, HDD, W, D, H, Weight
+1,MacBook Pro,2015,"15\"",16GB,512GB SSD,13.75,9.48,0.61,4.02
+2,MacBook,2016,"12\"",8GB,256GB SSD,11.04,7.74,0.52,2.03
+3,MacBook Air,2016,"13.3\"",8GB,128GB SSD,12.8,8.94,0.68,2.96
+4,iMac,2017,"27\"",64GB,1TB SSD,25.6,8.0,20.3,20.8
